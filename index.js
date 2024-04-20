@@ -1,3 +1,4 @@
+import "./env.js"
 import express from "express";
 import passport from 'passport';
 import passportLocal from './config/passport-local-startegy.js';
